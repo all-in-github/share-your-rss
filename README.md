@@ -10,6 +10,7 @@
 | Freek Van der Herten | https://murze.be/ | https://murze.be/feed |
 | Barry vd. Heuvel | https://medium.com/@barryvdh | https://medium.com/feed/@barryvdh |
 | Jason Lewis | http://jasonlewis.me | http://jasonlewis.me/rss |
+| Matt Stauffer | https://mattstauffer.com/blog/ | https://mattstauffer.com/blog/feed.atom |
 
 ## Front End
 
