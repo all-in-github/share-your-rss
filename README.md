@@ -11,6 +11,7 @@
 | Barry vd. Heuvel | https://medium.com/@barryvdh | https://medium.com/feed/@barryvdh |
 | Jason Lewis | http://jasonlewis.me | http://jasonlewis.me/rss |
 | Matt Stauffer | https://mattstauffer.com/blog/ | https://mattstauffer.com/blog/feed.atom |
+| Xinchen Hui (Laruence)|http://www.laruence.com | http://www.laruence.com/feed | 
 
 ## Front End
 
