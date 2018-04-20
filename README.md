@@ -14,5 +14,5 @@
 | Xinchen Hui (Laruence)|http://www.laruence.com | http://www.laruence.com/feed | 
 
 
-| Wes Bos | http://wesbos.com/blog/| http://wesbos.com/blog/feed/ | 
+| Wes Bos | http://wesbos.com/blog/ | http://wesbos.com/blog/feed/ | 
 | TJ Holowaychuk(TJ) | https://medium.com/@tjholowaychuk/ | https://medium.com/feed/@tjholowaychuk/ |
