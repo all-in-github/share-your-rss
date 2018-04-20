@@ -1,6 +1,5 @@
 # share-your-rss
 
-## PHP
 
 |Name |  URL | RSS |
 | --- | ---- | --- |
