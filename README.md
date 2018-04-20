@@ -3,6 +3,7 @@
 
 |Name |  URL | RSS |
 | --- | ---- | --- |
+| Fabien Potencier | http://fabien.potencier.org | http://feeds.fabien.potencier.org/aidedecamp | 
 | Taylor Otwell | https://medium.com/@taylorotwell | https://medium.com/feed/@taylorotwell |
 | Dayle Rees | https://daylerees.com | https://daylerees.com/rss |
 | Adam Wathan | https://adamwathan.me | https://adamwathan.me/rss | 
